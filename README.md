@@ -1,8 +1,9 @@
 # Wildwood Refuge - 3D Computer Graphics Project
 
 This documentation describes a 3D computer graphics project that captures a serene natural landscape, titled **Wildwood Refuge**. The scene is set in a tranquil environment where nature and human habitation coexist in harmony. 
-![Wildwood Refuge](scena)
-![Fog](scena_fog)
+![Wildwood Refuge](scena.png)
+![Fog](scena_fog.png)
+
 ## Scene Description
 The project features a variety of animals, such as:
 - Graceful swans gliding across the water
